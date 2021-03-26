@@ -1,1 +1,1 @@
-# gatsby-plugin-grid
+# Gatsby Grid Plugin
